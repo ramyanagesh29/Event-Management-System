@@ -68,29 +68,24 @@ Displays event statistics, recent activities, event management options, and even
 
 Event-Management-System/
 
+Project Structure
+
+Event-Management-System/
+
 ├── index.html
-
 ├── about.html
-
 ├── events.html
-
 ├── registration.html
-
 ├── contact.html
-
 ├── login.html
-
 ├── dashboard.html
-
-├── css/
-
-│   └── style.css
-
-├── js/
-
-│   └── app.js
-
-└── images/
+├── style.css
+├── app.js
+├── tech.jpg
+├── coding.jpg
+├── workshop.jpg
+├── cyber.jpg
+└── webdevelopment.jpg
 
 ## Conclusion
 
