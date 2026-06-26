@@ -1,54 +1,70 @@
 # Event Management System
 
-## 📌 Project Overview
+## Project Overview
 
-The Event Management System is a web-based application developed using HTML, CSS, and JavaScript. It helps users explore upcoming events, register for events, contact organizers, and view event-related information through a simple and user-friendly interface.
+The Event Management System is a web-based project developed using HTML, CSS, and JavaScript. It helps users view upcoming events, register for events, contact organizers, and access event-related information through a simple and user-friendly interface.
 
-This project was developed as part of a Full Stack Development Internship assignment to demonstrate fundamental web development skills.
-
----
-
-## 🚀 Features
-
-### User Features
+## Features
 
 * Home Page
 * About Page
-* Upcoming Events Page
+* Events Page
 * Event Registration Form
 * Contact Page
 * Login Page
-* Event Information Display
-
-### Admin Features
-
 * Admin Dashboard
-* Add Event
-* Update Event
-* Delete Event
-* View Event Statistics
-* Monitor Event Activities
+* Event Cards with Images
+* Responsive Navigation Menu
+* Interactive Buttons using JavaScript
+* Form Input Fields
+* Hover Effects and Modern UI Design
 
-### UI Features
+## Pages Included
 
-* Responsive Navigation Bar
-* Interactive Event Cards
-* Hover Effects
-* Modern Dashboard Design
-* Professional Color Theme
-* Styled Forms and Buttons
+### Home Page
 
----
+Displays featured events, event highlights, and navigation links.
 
-## 🛠️ Technologies Used
+### About Page
+
+Provides information about the Event Management System, mission, vision, and benefits.
+
+### Events Page
+
+Displays upcoming events with event images, dates, locations, seat availability, descriptions, and registration buttons.
+
+### Registration Page
+
+Allows users to register for events by entering their details and selecting an event.
+
+### Contact Page
+
+Provides contact information and a contact form for user inquiries.
+
+### Login Page
+
+Allows users to enter login details and access the event dashboard.
+
+### Dashboard Page
+
+Displays event statistics, recent activities, event management options, and event details.
+
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 
----
+## JavaScript Functions
 
-## 📂 Project Structure
+* Event Registration Alert
+* Contact Form Alert
+* Login Alert
+* Add Event Function
+* Update Event Function
+* Delete Event Function
+
+## Project Structure
 
 Event-Management-System/
 
@@ -74,108 +90,8 @@ Event-Management-System/
 
 │   └── app.js
 
-├── images/
+└── images/
 
-│   ├── tech.jpg
+## Conclusion
 
-│   ├── coding.jpg
-
-│   ├── workshop.jpg
-
-│   ├── cyber.jpg
-
-│   └── webdevelopment.jpg
-
-└── README.md
-
----
-
-## 🎯 Functionalities
-
-### Event Registration
-
-Users can register for available events through the registration form.
-
-### Contact Form
-
-Users can send inquiries and feedback using the contact page.
-
-### Login System
-
-Users can access the dashboard through the login page.
-
-### Event Dashboard
-
-The dashboard provides:
-
-* Total Events
-* Registered Students
-* Upcoming Events
-* Completed Events
-* Event Statistics
-* Recent Activities
-
-### JavaScript Functions
-
-* Register Event
-* Login User
-* Send Message
-* Add Event
-* Update Event
-* Delete Event
-
----
-
-## 📷 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Events Page
-* Registration Page
-* Login Page
-* Dashboard
-
----
-
-## 📚 Learning Outcomes
-
-Through this project, I learned:
-
-* HTML Page Structure
-* CSS Styling
-* Flexbox Layout
-* Form Design
-* Navigation Bar Creation
-* Dashboard Design
-* JavaScript Functions
-* Event Handling
-* GitHub Project Management
-
----
-
-## 🔮 Future Enhancements
-
-* Database Integration
-* User Authentication
-* Online Event Registration Storage
-* Email Notifications
-* Admin Login System
-* Responsive Mobile Design
-* Event Search and Filter
-
----
-
-## 👩‍💻 Author
-
-Ramya N
-
-Full Stack Development Internship Project
-
-2026
-
----
-
-## 📄 License
-
-This project is created for educational and internship learning purposes.
+This project demonstrates the use of HTML, CSS, and JavaScript to create a simple Event Management System with multiple pages, form handling, event cards, dashboard design, and interactive user features.
